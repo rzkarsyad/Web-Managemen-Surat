@@ -10,9 +10,7 @@ Project ini bukan merupakan project final, sehingga masih banyak kekurangan atau
 - Melihat laporan surat keluar
 
 ## Screenshot
-![gambar1](https://user-images.githubusercontent.com/62179572/127934915-d098d722-901c-4422-ac5a-dc599d820de2.jpg)
-![gambar2](https://user-images.githubusercontent.com/62179572/127934918-1dc5f62b-c3f8-43c9-9b00-bbdc03d969e5.jpg)
-![gambar3](https://user-images.githubusercontent.com/62179572/127934919-a6b713d7-95ff-4d4c-a944-1cf326147718.jpg)
-![gambar4](https://user-images.githubusercontent.com/62179572/127934921-fe6e2830-cf56-4dd7-8eaf-c738ffa89e08.jpg)
-![gambar5](https://user-images.githubusercontent.com/62179572/127934924-ac17aac6-27ad-4cc9-add1-7c09380c31e0.jpg)
-
+![SharedScreenshot1](https://user-images.githubusercontent.com/62179572/127935290-d1d266a6-cb43-40ec-aec4-073a9b55d8d3.jpg)
+![SharedScreenshot2](https://user-images.githubusercontent.com/62179572/127935292-1471fcea-2bdd-49be-9384-693910771dc8.jpg)
+![SharedScreenshot3](https://user-images.githubusercontent.com/62179572/127935293-60289567-0819-46ee-b77e-c4bd7485f0d5.jpg)
+![SharedScreenshot4](https://user-images.githubusercontent.com/62179572/127935296-b9ef9427-de70-488c-9f1f-dcae9a7790c7.jpg)
